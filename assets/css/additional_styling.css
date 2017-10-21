@@ -387,13 +387,11 @@ html, body {
 	}
 
 	.subtitle-card-main{
-	
 		font-size: 1.3em;
 
 	}
 
 	.subtitle-card-minor{
-
 		font-size: 0.9em;
 	}
 
@@ -430,8 +428,9 @@ html, body {
 	.current-time{
 		font-size: 4em;
 	}
+
+	.site-header{
+		font-size: 1.2em;
+	}
 }
 
-.site-header{
-	font-size: 1.5em;
-}
