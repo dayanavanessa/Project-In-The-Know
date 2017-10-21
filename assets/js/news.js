@@ -111,7 +111,7 @@ function populateNewsInfo (userLocation, news) {
 			$("#"+userLocation.cityID + '-media-image-' + i).attr("src", news[i].image.thumbnail.contentUrl);
 		}
 		else{
-			$("#"+userLocation.cityID + '-media-image-' + i).attr("src", "http://placehold.it/100x100");
+			$("#"+userLocation.cityID + '-media-image-' + i).attr("src", "https://placehold.it/100x100");
 		}
 	}
 }
